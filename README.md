@@ -31,13 +31,14 @@ I built this project after learning the fundamentals of **OOP in Python**, inclu
 ---
 
 ## 🏗️ Project Structure
-```text
-└── main.py  # Contains all classes, logic, and the main program loop
+*   **main.py:** Contains all classes, logic, and the main program loop.
+
+---
 
 ## ▶️ How to Run the Project
-Ensure you have Python installed.
-
-Run the following command in your terminal:
+1.  **Ensure you have Python installed.**
+2.  **Run the following command in your terminal:**
+    `python main.py`
 
 ### 🔐 Login Info (Demo)
 Employee login requires a password. For testing purposes, use:
@@ -52,9 +53,9 @@ This project was created to practice and demonstrate a solid understanding of Py
 
 ## 💡 Future Improvements
 *   **Stock Management:** Add product quantities and inventory tracking.
-*   **Persistence:** Save data using files (`.json`) or a database.
+*   **Persistence:** Save data using files (.json) or a database.
 *   **User Management:** Support multiple employees with unique credentials.
-*   **UI/UX:** Improve terminal formatting with libraries like `Rich`.
+*   **UI/UX:** Improve terminal formatting with libraries like Rich.
 
 ---
 
